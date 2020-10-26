@@ -12,6 +12,5 @@ public class Homework_1_3 {
         int e = a * (b + (c / d));
 
         System.out.println(e);
-
     }
 }
