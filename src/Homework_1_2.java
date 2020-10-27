@@ -1,7 +1,7 @@
 public class Homework_1_2 {
 
     public static void main(String[] args) {
-    //Создание переменных и инциализация значений
+
 
         int a = 10;
         System.out.println(a);
