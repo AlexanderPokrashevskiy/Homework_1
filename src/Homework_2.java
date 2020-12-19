@@ -56,9 +56,8 @@ public class Homework_2 {
 
     public static void task04() {
 
-        int[][] arr = new int[10][10]
+        int[][] arr = new int[10][10];
         for (int i = 0; i < arr.length; i++) {
-
         }
 
     }
